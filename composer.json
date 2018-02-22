@@ -1,0 +1,11 @@
+{
+    "name": "administrator/demoaa",
+    "description": "composer shiHaiQing test",
+    "authors": [
+        {
+            "name": "蒲公英的种子",
+            "email": "1097848289@qq.com"
+        }
+    ],
+    "require": {}
+}
